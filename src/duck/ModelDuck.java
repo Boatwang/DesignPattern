@@ -1,0 +1,16 @@
+package duck;
+
+import behavior.FlyBehavior.impl.FlyNoWay;
+import behavior.quackBehavoir.impl.Quack;
+
+public class ModelDuck extends Duck{
+    public ModelDuck(){
+        flyBehavior = new FlyNoWay();
+        quackBehavior = new Quack();
+    }
+
+    @Override
+    public void display() {
+        System.out.println("I am a model Duck!");
+    }
+}
