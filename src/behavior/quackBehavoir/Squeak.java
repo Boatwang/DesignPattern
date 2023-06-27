@@ -1,7 +1,5 @@
 package behavior.quackBehavoir;
 
-import behavior.quackBehavoir.QuackBehavior;
-
 public class Squeak implements QuackBehavior {
     @Override
     public void quack() {
