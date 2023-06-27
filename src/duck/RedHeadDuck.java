@@ -1,8 +1,7 @@
 package duck;
 
-import behavior.FlyBehavior.impl.FlyWithWings;
-import behavior.quackBehavoir.impl.Squeak;
-import duck.Duck;
+import behavior.FlyBehavior.FlyWithWings;
+import behavior.quackBehavoir.Squeak;
 
 public class RedHeadDuck extends Duck {
     public RedHeadDuck() {

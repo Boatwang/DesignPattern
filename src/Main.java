@@ -1,4 +1,4 @@
-import behavior.FlyBehavior.impl.FlyRocketPowered;
+import behavior.FlyBehavior.FlyRocketPowered;
 import duck.MallardDuck;
 import duck.ModelDuck;
 

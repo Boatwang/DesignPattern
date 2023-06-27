@@ -1,4 +1,4 @@
-package behavior.quackBehavoir.impl;
+package behavior.quackBehavoir;
 
 import behavior.quackBehavoir.QuackBehavior;
 

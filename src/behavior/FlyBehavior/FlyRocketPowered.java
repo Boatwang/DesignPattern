@@ -1,4 +1,4 @@
-package behavior.FlyBehavior.impl;
+package behavior.FlyBehavior;
 
 import behavior.FlyBehavior.FlyBehavior;
 

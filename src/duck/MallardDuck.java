@@ -1,7 +1,7 @@
 package duck;
 
-import behavior.FlyBehavior.impl.FlyWithWings;
-import behavior.quackBehavoir.impl.Quack;
+import behavior.FlyBehavior.FlyWithWings;
+import behavior.quackBehavoir.Quack;
 
 public class MallardDuck extends Duck {
     public MallardDuck(){
